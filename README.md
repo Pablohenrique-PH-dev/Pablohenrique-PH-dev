@@ -29,6 +29,8 @@
   
 </div> 
 
+ ![Snake animation](https://github.com/Pablohenrique-PH-dev/Pablohenrique-PH-dev/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 ### Hi there 👋
 
