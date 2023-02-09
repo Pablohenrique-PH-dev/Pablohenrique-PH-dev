@@ -4,6 +4,7 @@
 
 - 🔭 Eu atualmente trabalho como Técnico de Eletroeletrônica
 - 🌱 Estudando Python
+- 🌱 Estudando FullStack 
 
 <div>
   <a href="https://github.com/Pablohenrique-PH-dev"
